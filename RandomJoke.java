@@ -3,7 +3,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class LearningAPI {
+public class RandomJoke {
     public static void main(String[] args) {
         String url = "https://official-joke-api.appspot.com/random_joke";
 
